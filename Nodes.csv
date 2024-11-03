@@ -1,0 +1,16 @@
+id,incident_id,state,n_killed,n_injured,year,day
+1,480358,California,4,3,2013,19
+2,108649,California,4,2,2014,20
+3,133455,California,4,0,2014,9
+4,138282,California,4,8,2014,23
+5,139689,California,4,0,2014,26
+6,272531,California,4,0,2015,1
+7,276459,California,4,0,2015,9
+8,476338,California,4,0,2015,31
+9,676663,California,4,11,2016,15
+10,789126,California,4,0,2017,5
+11,866933,California,4,2,2017,14
+12,919715,California,4,0,2017,23
+13,1020918,California,4,0,2018,5
+14,1022973,California,4,0,2018,7
+15,1065908,California,4,0,2018,9
